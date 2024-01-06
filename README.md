@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShrijalShrestha
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning Computer Sciencs
+- 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me: Contact no. 7816093568, Email: shrijalshrestha85@gmail.com
 
